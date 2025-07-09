@@ -132,8 +132,8 @@ n1.plotVoltage(ax=ax,lineStyle='k')
 n2.plotVoltage(ax=ax,lineStyle='r')
 ```
 
+## Changelog
+
 20120515 python script updated with state variable permutation bug fix.
 
----
-
-2025-07-09: Converted README to Markdown.
+20250709 Converted README to Markdown.
